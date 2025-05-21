@@ -1,0 +1,18 @@
+
+  <library path="media_system">
+    <class type="media_system::PowerOn" base_class_type="media_system::MediaState">
+      <description> Power On State Media Player.</description>
+    </class>
+    <class type="media_system::PowerOff" base_class_type="media_system::MediaState">
+      <description> State Media Player.</description>
+    </class>
+    <class type="media_system::Play" base_class_type="media_system::MediaState">
+      <description> State Media Player.</description>
+    </class>
+    <class type="media_system::Pause" base_class_type="media_system::MediaState">
+      <description> State Media Player.</description>
+    </class>
+    <class type="media_system::Stop" base_class_type="media_system::MediaState">
+      <description> State Media Player.</description>
+    </class>
+  </library>

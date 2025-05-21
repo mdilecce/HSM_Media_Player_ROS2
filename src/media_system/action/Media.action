@@ -1,0 +1,5 @@
+uint8 action_type
+---
+bool action_completed
+---
+bool action_progress
